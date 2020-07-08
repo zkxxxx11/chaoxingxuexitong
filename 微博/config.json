@@ -1,0 +1,11 @@
+{
+	"user_id_list": ["1642909335"],
+    "filter": 0,
+    "since_date": "2020-07-6 20:59",
+    "write_mode": [ "txt","json","csv"],
+    "pic_download": 1,
+    "video_download": 0,
+    "cookie": "Hm_lvt_eaa57ca47dacb4ad4f5a257001a3457c=1579233274,1579404664,1579579372,1579583990; ALF=1596180626; SCF=ArxMcEIFjFaoSaM-iwBj4jxlUAJDQO80vYo3mY67UQnCoc-4siNvi0O3KLCSHfFq4_Lm-Ua8FYl_OxUucnASFOQ.; SUB=_2A25z-ExpDeRhGeBL6lYX9CzPyDSIHXVRA1QhrDV6PUJbktAKLWnHkW1NR1LTqJ7RJHqxvy1C30OcRux8TxCspZuK; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WhQq_wNX0kxNMFf0JcSkDQg5JpX5K-hUgL.FoqfeKBcShz0e0n2dJLoIp7LxKML1KBLBKnLxKqL1hnLBoMcSK2XSoBEe0eR; SUHB=0qjkuABX6_-U-p; SSOLoginState=1593588793; _T_WM=4596336399d6f12b655704798384eaf6",
+    ",mysql_config":{
+    }
+}
