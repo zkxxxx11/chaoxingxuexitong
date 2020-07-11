@@ -1,2 +1,2 @@
 # spider-weibo
-微博爬虫
+爬虫
