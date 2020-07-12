@@ -78,7 +78,7 @@ def save_pymongo(xx,oo,messages,link22):
     myclient=pymongo.MongoClient("mongodb://localhost:27017/")
     mydb=myclient['douban']
     mycol=mydb['dddd']
-    for i in range(0,10):
+    for i in range(0,250):
 
         xx1={'title':xx[i],'score':oo[i],'messages':messages[i],'link22':link22[i]}
 
